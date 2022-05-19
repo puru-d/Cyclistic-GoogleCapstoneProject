@@ -35,6 +35,14 @@ cyclistic_df_use <- cyclistic_df_use %>% select(start_station_name, start_time_h
                                                                                                
 **Data  Analysis and Viz:**
 Please find attached R file and data visualisations.
+
+![startTimeVStotalTime_memberCasual](https://user-images.githubusercontent.com/52069058/169350029-62497600-9c49-44f5-b9ea-c3be21c9a041.png)
+![startTimeVStotalTime_rideableType](https://user-images.githubusercontent.com/52069058/169350069-15c11ef0-f632-4c4c-91c6-8a67bce657cc.png)
+![weekDayVScount](https://user-images.githubusercontent.com/52069058/169350120-b3d23c31-9fa1-44dd-bcca-a5c78f9394bc.png)
+![weekDayVScount_memberCasual](https://user-images.githubusercontent.com/52069058/169350158-23627d7f-fc8b-45ab-9e80-67ce255d7323.png)
+![hourVScount_memberCasual](https://user-images.githubusercontent.com/52069058/169350288-73b3d8ef-cf2c-4900-aea6-2e18234c31bf.png)
+![monthVScount_memberCasual](https://user-images.githubusercontent.com/52069058/169350310-078cc9d2-dbb2-4d90-9dff-78b5f5f5887c.png)
+
 **Analysis:**
 1. Docked Bike is the most rented bike of 3.
 2. Casual member drive longer than annual member. Approximately twice.
